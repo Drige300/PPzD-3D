@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{d5b97dfd-2718-4500-89ce-455f39152fdd}">
+		<property name="assetPath">
+			<value>Footsteps/MetalWalk/MetalWalk-003.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b9ced493-0ace-4a22-8eba-63acc83ea088}</destination>
+		</relationship>
+	</object>
+</objects>

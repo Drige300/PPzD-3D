@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EncodableAsset" id="{1670bedd-5af0-4744-9da2-453682e7d009}">
+		<property name="assetPath">
+			<value>Cave_Audio/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b9ced493-0ace-4a22-8eba-63acc83ea088}</destination>
+		</relationship>
+	</object>
+</objects>
